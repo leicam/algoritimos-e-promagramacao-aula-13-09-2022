@@ -1,0 +1,16 @@
+C:\Users\juliano.maciel\source\repos\Revisao.Prova\Revisao.Prova\bin\Debug\net5.0\Revisao.Prova.exe
+C:\Users\juliano.maciel\source\repos\Revisao.Prova\Revisao.Prova\bin\Debug\net5.0\Revisao.Prova.deps.json
+C:\Users\juliano.maciel\source\repos\Revisao.Prova\Revisao.Prova\bin\Debug\net5.0\Revisao.Prova.runtimeconfig.json
+C:\Users\juliano.maciel\source\repos\Revisao.Prova\Revisao.Prova\bin\Debug\net5.0\Revisao.Prova.runtimeconfig.dev.json
+C:\Users\juliano.maciel\source\repos\Revisao.Prova\Revisao.Prova\bin\Debug\net5.0\Revisao.Prova.dll
+C:\Users\juliano.maciel\source\repos\Revisao.Prova\Revisao.Prova\bin\Debug\net5.0\Revisao.Prova.pdb
+C:\Users\juliano.maciel\source\repos\Revisao.Prova\Revisao.Prova\obj\Debug\net5.0\Revisao.Prova.csproj.AssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\Revisao.Prova\Revisao.Prova\obj\Debug\net5.0\Revisao.Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano.maciel\source\repos\Revisao.Prova\Revisao.Prova\obj\Debug\net5.0\Revisao.Prova.AssemblyInfoInputs.cache
+C:\Users\juliano.maciel\source\repos\Revisao.Prova\Revisao.Prova\obj\Debug\net5.0\Revisao.Prova.AssemblyInfo.cs
+C:\Users\juliano.maciel\source\repos\Revisao.Prova\Revisao.Prova\obj\Debug\net5.0\Revisao.Prova.csproj.CoreCompileInputs.cache
+C:\Users\juliano.maciel\source\repos\Revisao.Prova\Revisao.Prova\obj\Debug\net5.0\Revisao.Prova.dll
+C:\Users\juliano.maciel\source\repos\Revisao.Prova\Revisao.Prova\obj\Debug\net5.0\refint\Revisao.Prova.dll
+C:\Users\juliano.maciel\source\repos\Revisao.Prova\Revisao.Prova\obj\Debug\net5.0\Revisao.Prova.pdb
+C:\Users\juliano.maciel\source\repos\Revisao.Prova\Revisao.Prova\obj\Debug\net5.0\Revisao.Prova.genruntimeconfig.cache
+C:\Users\juliano.maciel\source\repos\Revisao.Prova\Revisao.Prova\obj\Debug\net5.0\ref\Revisao.Prova.dll
